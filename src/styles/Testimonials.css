@@ -1,0 +1,19 @@
+#testimonials {
+    background-color: #f2f2f2;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  #testimonials h2 {
+    color: #333;
+    font-size: 28px;
+  }
+  
+  #testimonials div {
+    margin-top: 40px;
+  }
+  
+  #testimonials p {
+    color: #666;
+    font-size: 16px;
+  }

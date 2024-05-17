@@ -1,0 +1,25 @@
+#features {
+    background-color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  #features h2 {
+    color: #333;
+    font-size: 28px;
+  }
+  
+  #features ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #features ul li {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 10px;
+    
+    
+  }
+  
+ 

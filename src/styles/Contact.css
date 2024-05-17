@@ -1,0 +1,24 @@
+#contact {
+    background-color: #333;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  #contact p {
+    font-size: 24px;
+  }
+  
+  #contact ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #contact ul li {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  #contact ul li:first-child {
+    margin-top: 0;
+  }
